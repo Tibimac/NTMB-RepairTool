@@ -1,6 +1,6 @@
 # NTMB-RepairTool
 Ce script en AppleScript permet d'automatiser la réparation d'une sauvegarde réseau Time Machine endommagée.<br/>
-Ce script est basé sur cet article : http://ifabtesting.net/reparer-une-sauvegarde-timemachine-sur-un-nas/<br/>
+Ce script est basé sur cet article : https://web.archive.org/web/20160130061319/http://ifabtesting.net/reparer-une-sauvegarde-timemachine-sur-un-nas/<br/>
 
 Au lancement (manuel) le script demande à l'utilisateur de sélectionner le fichier de la sauvegarde Time Machine à vérifier/réparer.<br/>
 Le chemin vers le fichier de la sauvegarde est ensuite enregistré dans un fichier de préférence afin de ne plus avoir à faire cette demande à l'utilisateur.<br/>
